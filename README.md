@@ -12,6 +12,10 @@ Jetson Nanoを使った左右独立二輪方式の小型移動プラットフォ
 
 <!-- [circuit diagram](./circuit_diagram)ディレクトリにはJetson Nano Mouseの回路図が入っています。 -->
 
+デバイスドライバは[rt-net/JetsonNanoMouse](https://github.com/rt-net/JetsonNanoMouse)のリポジトリで管理されています。
+
+セットアップの際に使用するスクリプトや情報は[rt-net/jnmouse_utils](https://github.com/rt-net/jnmouse_utils)のリポジトリで管理されています。
+
 ## 開発について
 
 本リポジトリはオープンソースですが、開発はオープンではありません。  
