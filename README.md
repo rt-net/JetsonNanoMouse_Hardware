@@ -16,6 +16,16 @@ Jetson Nanoを使った左右独立二輪方式の小型移動プラットフォ
 
 セットアップの際に使用するスクリプトや情報は[rt-net/jnmouse_utils](https://github.com/rt-net/jnmouse_utils)のリポジトリで管理されています。
 
+## ロボットのハードウェアについて
+
+### カメラ
+
+カメラはSainSmart社の[IMX219 Camera Module for NVIDIA Jetson Nano Board | 8MP Sensor | 160 Degree FoV (SKU: 101-40-252)](https://www.sainsmart.com/products/sainsmart-imx219-camera-module-for-nvidia-jetson-nano-board-8mp-sensor-160-degree-fov)を採用しています。  
+カメラの詳細なスペックについてはSainSmart社のページをご覧ください。  
+搭載している2つのカメラ同士の距離は55mmとなるように設計されています。
+
+![](https://rt-net.github.io/images/jetson-nano-mouse/jnmouse_dual_camera.png)
+
 ## 開発について
 
 本リポジトリはオープンソースですが、開発はオープンではありません。  
