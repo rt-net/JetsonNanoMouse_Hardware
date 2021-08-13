@@ -34,6 +34,7 @@ Jetson Nanoを使った左右独立二輪方式の小型移動プラットフォ
 * トレッド: 92.5mm
 * モータ: 4層ステッピングモータx2
     * 基本ステッピング角: 0.9degree
+
 モータについての詳細は[製品ページに掲載されている仕様](https://rt-net.jp/products/jetson-nano-mouse/#specifications)をご覧ください。
 
 ![](https://rt-net.github.io/images/jetson-nano-mouse/drawing_jnmouse_wheel.png)
