@@ -10,7 +10,7 @@ Jetson Nanoを使った左右独立二輪方式の小型移動プラットフォ
 
 [3d_cad_data](./3d_cad_data)ディレクトリにはJetson Nano Mouseの3D CADデータが入っています。
 
-[circuit diagram](./circuit_diagram)ディレクトリにはJetson Nano Mouseの回路図が入っています。
+[circuit_diagram](./circuit_diagram)ディレクトリにはJetson Nano Mouseの回路図が入っています。
 
 デバイスドライバは[rt-net/JetsonNanoMouse](https://github.com/rt-net/JetsonNanoMouse)のリポジトリで管理されています。
 
